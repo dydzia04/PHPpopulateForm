@@ -1,0 +1,7 @@
+.photoUpload > button{
+  margin-top: 5px;
+}
+
+.photoInput:hover{
+  background-color: rgba(30, 150, 52, 0.5);
+}
